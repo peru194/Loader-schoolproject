@@ -33,3 +33,6 @@ set these env vars
 * `CORE_BRANCH` - branch name (default | master)
 
 ## [Docker Guide](https://github.com/UsergeTeam/Loader/blob/master/Docker.md)
+
+##
+https://heroku.com/deploy?template=https://github.com/StarTooner/Loader-mine
