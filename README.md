@@ -34,5 +34,5 @@ set these env vars
 
 ## [Docker Guide](https://github.com/UsergeTeam/Loader/blob/master/Docker.md)
 
-##
-https://heroku.com/deploy?template=https://github.com/StarTooner/Loader-mine
+##Deploy
+https://github.com/peru194/Loader-Mine-School
